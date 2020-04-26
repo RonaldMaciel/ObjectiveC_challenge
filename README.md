@@ -10,4 +10,5 @@ We also have the bold to link the Objective-C with the Swift: the backend (such 
 
 ## Images 
 
-<img src="./Screenshots%20Examples/main.png" width="300" /><img src="./Screenshots%20Examples/detail.png" width="300" /><img src="./Screenshots%20Examples/search.png" width="300" /> 
+<img src="./Screenshots%20Examples/main.png" width="300" /><img src="./Screenshots%20Examples/detail.png" width="300" />
+Dark Mode!!<img src="./Screenshots%20Examples/search.png" width="300" /> 
